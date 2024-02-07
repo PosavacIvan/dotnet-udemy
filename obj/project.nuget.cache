@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6Zbsm2MCR57QZIraQxOHLEiD0lMAyba4hHKDFOtgOqel14ZpZFihjT2MML7rNbNhZC0LByXbdSQWuYmvxjm/Q==",
+  "success": true,
+  "projectFilePath": "/Users/ivanposavac/Documents/UDEMY/dotnet-course-code/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanposavac/.nuget/packages/scriptcs/0.17.1/scriptcs.0.17.1.nupkg.sha512"
+  ],
+  "logs": []
+}
